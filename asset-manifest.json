@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magoselet/static/css/main.ae42ac5f.css",
+    "main.js": "/magoselet/static/js/main.18dc9714.js",
+    "index.html": "/magoselet/index.html",
+    "main.ae42ac5f.css.map": "/magoselet/static/css/main.ae42ac5f.css.map",
+    "main.18dc9714.js.map": "/magoselet/static/js/main.18dc9714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.18dc9714.js"
+  ]
+}
