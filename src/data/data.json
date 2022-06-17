@@ -1,0 +1,123 @@
+{
+  "Header": {
+    "title": "MAGOS ÉLET",
+    "paragraph": "100% magyar, kézműves, vörös szőlőmag termékek Egerből. Tőlünk. Neked."
+  },
+  "About": {
+    "paragraph": "A Magos Élet egy kis családi vállalkozás. Engedd meg, hogy ne magunkat hanem egymást mutassuk be. Peti a szaktudását adja, hiszen 18 éve dolgozik a borászati szektorban, régóta dédelgetett álma volt, hogy a szőlőt ne csak a nedűjéről, a finom borokról ismerjék meg az emberek, hanem annak egy másik oldalát is, mely inkább a prevenció, az egészségmegőrzés hírét öregbíti/nagyobbítja. Rengeteg utánajárás, előkészület, családi kupaktanács, át nem aludt éjszakák, reggelig tartó ötletelések előzték meg, hogy elinduljunk a megvalósítás útján. Kitti a kreatív oldalát élheti meg itt is, hiszen a csomagolás, a termékek megjelenése, mind az ő munkáját dicséri. A cél az volt, hogy a letisztult, természetes vonalon maradjunk, ami tükrözi a csomagolás beltartalmát is. Valamint ő maga is rendszeres vitamin, táplálék kiegészítő fogyasztó , így a dolog praktikus oldalát is meg tudta fogni, mint például: visszazárható, fényvédő papír tasak az őrlemény esetében, fényvédő barna üvegcse pipettával a könnyebb adagolás és helyi kezelés érdekében az olaj esetében. Mindkét termék esetében a kiszerelés méretét is néztük, hogy könnyen és biztonságosan magaddal tudd vinni akkor is, ha éppen utazol. A tanulópénzt, a kerülőutakat persze nem lehet kikerülni, de minden perce megérte, hogy ma már a kezünkben tarthatjuk ezt a kincset. Szó szerint minden cseppjéért megdolgoztunk, hogy a lehető legtisztább, legjobb minőségű őrleményt és olajat tudjuk adni Neked.",
+    "Why": [
+      "Több éves szakértelem",
+      "Ellenőrzött alapanyagok",
+      "Hazai termék"
+    ],
+    "Why2": [
+      "Termékeink az Egri borvidékről származnak",
+      "Valami",
+      "Valami"    
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Vörös szőlőmagolaj",
+      "largeImage": "img/portfolio/olaj.jpg",
+      "smallImage": "img/portfolio/kis-olaj.jpg"
+    },
+    {
+      "title": "Vörös szőlőmagőrlemény",
+      "largeImage": "img/portfolio/orlemeny.jpg",
+      "smallImage": "img/portfolio/kis-orlemeny.jpg"
+    },
+    {
+      "title": "Vörös szőlőmag kapszula",
+      "largeImage": "img/portfolio/kapszula.jpg",
+      "smallImage": "img/portfolio/kis-kapszula.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-leaf",
+      "name": "Magas antioxidáns tartalom",
+      "text": "Kimagasló gyulladáscsökkentő hatása van"
+    },
+    {
+      "icon": "fa fa-heart-o",
+      "name": "Segíti a keringést",
+      "text": "Javítja az érrendszert, erősíti a vérereket"
+    },
+    {
+      "icon": "fa fa-clock-o",
+      "name": "Anti-ageing",
+      "text": "Lassítja a bőr öregedési folyamatát"
+    },
+    {
+      "icon": "fa fa-cutlery",
+      "name": "Könnyen emészthető",
+      "text": "Problém anélkül beilleszthető glutén-, laktóz-, cukormentes és vegán diétába és segíti az étkezési zsírok lebontását"
+    },
+    {
+      "icon": "fa fa-circle-o-notch",
+      "name": "Rostokban gazdag",
+      "text": "Javítja az anyagcserét"
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "name": "A-, C-, E-, F- és B-vitamin forrás",
+      "text": "Növeli a fizikai és szellemi teljesítőképességet"
+    }
+  ],
+  "Testimonials": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "name": "Kathi Béla"
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "name": "Kathi Béla"
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "name": "Kathi Béla"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    }
+  ],
+  "Contact": {
+    "phone1": "+36209846366",
+    "phone2": "+36305832946",
+    "email": "info@magoselet.hu",
+    "facebook": "https://www.facebook.com/magoselet",
+    "instagram": "https://www.instagram.com/magos_elet"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-question",
+      "title": "Kinek nem ajánlott?",
+      "text": "A szőlőmag fogyasztása nem ajánlott azoknak, akik véralvadásgátló gyógyszert szednek. Ha gyógyszeres kezelés alatt áll, akkor kérje ki háziorvosa véleményét."
+    },
+    {
+      "icon": "fa fa-question",
+      "title": "Terhesség és szoptatás alatt lehet-e fogyasztani?",
+      "text": "A szőlőmag kiegészítők fogyasztása nem ajánlott terhesség vagy szoptatás alatt."
+    },
+    {
+      "icon": "fa fa-question",
+      "title": "Okoz bármilyen mellékhatást?",
+      "text": "Jelenlegi tudományos adatok alapján a szőlőmag-őrlemény és olaj fogyasztása semmiféle mellékhatást nem okoz."
+    },
+    {
+      "icon": "fa fa-question",
+      "title": "Mennyi olaj fogyasztható naponta?",
+      "text": "Az ajánlott dózis egy evőkanál vagy 3 teáskanál olaj naponta."
+    }
+  ]
+}
